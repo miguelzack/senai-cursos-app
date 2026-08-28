@@ -1,4 +1,4 @@
-# SENAI Cursos
+# SENAI Cursos  - PROJETO COM FINS ACADÊMICOS - SENAI Santo Amaro - Suíço-Brasileira "Paulo Ernesto Tolle NÃO POSSUI VÍNCULO COM ESTE APLICATIVO
 
 Aplicativo mobile desenvolvido em **React Native com Expo** para divulgação dos cursos de desenvolvimento da escola **SENAI Santo Amaro - Suíço-Brasileira "Paulo Ernesto Tolle"**.
 
